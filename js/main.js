@@ -22,7 +22,11 @@
 async function registerAllusers() {
    await registerUser('julie');
    await registerUser('gach');
-   await registerUser('julie');
+   await registerUser('malavielle');
+   await registerUser('claire');
+   await registerUser('louise');
+   await registerUser('ugo');
+   await registerUser('maxime');
 }
 
 /**
